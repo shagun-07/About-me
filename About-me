@@ -1,0 +1,31 @@
+ <div class="container text-center py bg-light w-100">
+        <div class="row py-3">
+            <div class="col-12">
+                <h1 class="font-weight-light"><span class="text-info">About</span> me</h1>
+                <div class="lead">I can develop the front and the back of an app</div>
+                <div class="card-body"></div>
+            </div>
+        </div>
+        <div class="d-flex row justify-content-around py-3 text-justify">
+            <div class="col-12 col-md-6">
+                <h4 class="card-tittle text-center">What I can do ?</h4>
+                <p class="card-tittle text-center">I can contibute my ability to streamline office processes.</p>
+            </div>
+            <div class="col-12 col-md-6">
+                <h4 class="card-tittle text-center">What am I doing currently ?</h4>
+                <p class="card-tittle text-center"> Pursuing MCA from RCCV College.</p>
+            </div>
+        </div>
+        <div class="d-flex row justify-content-around py-3 text-justify">
+            <div class="col-12 col-md-6">
+                <h4 class="card-tittle text-center">What do I believe in ?</h4>
+                <p class="card-tittle text-center"> Being a fresher, I think I am very flexible and adaptive to learning
+                    new things.</p>
+            </div>
+            <div class="col-12 col-md-6">
+                <h4 class="card-tittle text-center">How I can help you ?</h4>
+                <p class="card-tittle text-center"> I am sure I will be able to contribute something capable for the
+                    growth of the company.</p>
+            </div>
+        </div>
+    </div>
